@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuqing Zhou"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on signal processing, medical imaging, brain science, machine learning, large language models, and human health."
 repository               : "Yuu-Zhou/Yuu-Zhou.github.io"
 # google_scholar_stats_use_cdn : False
 
@@ -43,12 +43,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  # linkedin         : "rayeren"
+  # dblp             : "https://dblp.org/pid/75/6568-6.html"
+  # orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
