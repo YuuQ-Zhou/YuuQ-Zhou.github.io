@@ -4,7 +4,7 @@
 - *2024* First-class School Scholarship (Top 1%)
 - *2023* "Establishment of the Nation Award" Scholarship (Top 3%)
 - *2023* Second-class School Scholarship (Top 5%)
-- 
+
 - *2025 2nd Prize, National Level* [27th China Robotics and Artificial Intelligence Competition](http://www.caairobot.com/) 
 - *2025 1st Prize, Provincial Level* [19th iCAN Innovation Contest](www.g-ican.com)
 - *2025 2nd Prize, Provincial Level* [10th "Huichuang Youth" Art Design - Product Design Category](https://ei.sit.edu.cn/)
