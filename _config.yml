@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuqing Zhou"
-description              : "Focusing on signal processing, medical imaging, brain science, machine learning, large language models, and human health."
+# description              : "Focusing on signal processing, medical imaging, brain science, machine learning, large language models, and human health."
 repository               : "Yuu-Zhou/Yuu-Zhou.github.io"
 # google_scholar_stats_use_cdn : False
 
@@ -22,7 +22,7 @@ repository               : "Yuu-Zhou/Yuu-Zhou.github.io"
 # Site Author
 author:
   name             : "Yuqing Zhou"
-  avatar           : "images/Me.jpeg"
+  avatar           : "../images/Me.jpeg"
   bio              : ""
   location         : "China"
   employer         :
