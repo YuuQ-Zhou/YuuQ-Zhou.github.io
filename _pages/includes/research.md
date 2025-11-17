@@ -9,13 +9,31 @@
 Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework
 
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Content**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- **EEG/ERP Data Preprocessing**: Systematically processed resting-state EEG and N-back task ERP signals using EEGLAB, implementing a full pipeline of filtering, artifact rejection, and normalization to maximize signal integrity and ensure high-quality data for analysis.
+- **Frequency-Domain Biomarker Identification**: Employed Fourier Transform to extract power and energy spectrum features, converting complex time-series data into a clear frequency-domain representation to uncover potential biomarkers of schizophrenia.
+- **Interpretable Machine Learning for Diagnosis**: Developed diagnostic models using interpretable algorithms (SVM, GBDT, KNN, Random Forest). Leveraged the Fisher-score algorithm for feature selection to pinpoint the most discriminative neural patterns across different frequency bands and brain regions.
+- **Key Findings**: Demonstrated that GBDT model achieved superior performance in classifying resting-state EEG, while SVM was optimal for task-based ERP data. This highlights a state-dependent optimal model choice. Identified the occipital lobe during visual processing tasks as a critical region containing highly discriminative features, suggesting its key role in the pathophysiology of schizophrenia.
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='../../images/mos&sh-图总_画板 1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
+**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+
+[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="100%"></div></div>
