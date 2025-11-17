@@ -14,8 +14,8 @@ Looking ahead to my Ph.D. studies, my research vision is clear and focused: **t
     cursor: pointer; color: #007bff; font-weight: 500;">View More Details</summary>
   <div style="margin-top: 8px; margin-bottom: 8px; padding: 8px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
   
-<strong>Core Methodology</strong>: I aim to fuse multimodal data—such as medical imaging, physiological signals, clinical text, and genomics—with machine learning and deep learning algorithms to investigate underlying disease mechanisms and build more accurate diagnostic tools.
-
+<p><strong>Core Methodology</strong>: I aim to fuse multimodal data—such as medical imaging, physiological signals, clinical text, and genomics—with machine learning and deep learning algorithms to investigate underlying disease mechanisms and build more accurate diagnostic tools.
+</p>
 
 <p><strong>Application Focus</strong>: I am particularly excited by the potential of combining Natural Language Processing (NLP), Large Language Models (LLMs), and Reinforcement Learning (RL) to create interactive platforms. These platforms would not only aid in diagnosis but also provide patients with dynamic guidance on rehabilitation, medication, and lifestyle interventions, serving as a trusted digital health companion.
 </p>
