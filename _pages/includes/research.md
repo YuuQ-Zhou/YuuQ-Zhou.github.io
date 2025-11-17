@@ -13,10 +13,14 @@ This work establishes that for machine learning-based diagnosis, resting-state E
     margin-bottom: 10px;
     cursor: pointer; color: #007bff; font-weight: 500;">Content</summary>
   <div style="margin-top: 8px; margin-bottom: 8px; padding: 8px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-  - **EEG/ERP Data Preprocessing**: Systematically processed resting-state EEG and N-back task ERP signals using EEGLAB, implementing a full pipeline of filtering, artifact rejection, and normalization to maximize signal integrity and ensure high-quality data for analysis.
-  - **Frequency-Domain Biomarker Identification**: Employed Fourier Transform to extract power and energy spectrum features, converting complex time-series data into a clear frequency-domain representation to uncover potential biomarkers of schizophrenia.
-  - **Interpretable Machine Learning for Diagnosis**: Developed diagnostic models using interpretable algorithms (SVM, GBDT, KNN, Random Forest). Leveraged the Fisher-score algorithm for feature selection to pinpoint the most discriminative neural patterns across different frequency bands and brain regions.
-  - **Key Findings**: Demonstrated that GBDT model achieved superior performance in classifying resting-state EEG, while SVM was optimal for task-based ERP data. This highlights a state-dependent optimal model choice. Identified the occipital lobe during visual processing tasks as a critical region containing highly discriminative features, suggesting its key role in the pathophysiology of schizophrenia.
+<p><strong>EEG/ERP Data Preprocessing</strong>: Systematically processed resting-state EEG and N-back task ERP signals using EEGLAB, implementing a full pipeline of filtering, artifact rejection, and normalization to maximize signal integrity and ensure high-quality data for analysis.</p>
+    
+<p><strong>Frequency-Domain Biomarker Identification</strong>: Employed Fourier Transform to extract power and energy spectrum features, converting complex time-series data into a clear frequency-domain representation to uncover potential biomarkers of schizophrenia.</p>
+
+<p><strong>Interpretable Machine Learning for Diagnosis</strong>: Developed diagnostic models using interpretable algorithms (SVM, GBDT, KNN, Random Forest). Leveraged the Fisher-score algorithm for feature selection to pinpoint the most discriminative neural patterns across different frequency bands and brain regions.</p>
+
+<p><strong>Key Findings</strong>: Demonstrated that GBDT model achieved superior performance in classifying resting-state EEG, while SVM was optimal for task-based ERP data. This highlights a state-dependent optimal model choice. Identified the occipital lobe during visual processing tasks as a critical region containing highly discriminative features, suggesting its key role in the pathophysiology of schizophrenia.</p>
+
   </div>
 </details>
 
