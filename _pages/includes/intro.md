@@ -7,7 +7,7 @@ I am currently translating theory into practice through a long-term internship a
 
 Looking ahead to my Ph.D. studies, my research vision is clear and focused: **to develop human-centered and empathetic AI technologies for medicine**.
 
-<details><summary style="margin-top: 16px;cursor: pointer;color: #2D3748;font-weight: 600;font-size: 15px;padding: 10px 16px;background-color: #F7FAFC;border: 1px solid #E2E8F0;border-radius: 8px;display: inline-flex;align-items: center;transition: all 0.2s ease;"><span>View More Details</span><span style="margin-left: 8px; font-size: 14px;">▼</span></summary><div style="margin-top: 12px;padding: 16px;background-color: #FFFFFF;border: 1px solid #E2E8F0;border-radius: 8px;line-height: 1.6;">
+<details><summary style="margin-top: 12px; cursor: pointer; color: #007bff; font-weight: 500;">View More Details</summary><div style="margin-top: 8px; padding: 8px 0; border-top: 1px solid #eee;">
   
 **Core Methodology**: I aim to fuse multimodal data—such as medical imaging, physiological signals, clinical text, and genomics—with machine learning and deep learning algorithms to investigate underlying disease mechanisms and build more accurate diagnostic tools.
 
