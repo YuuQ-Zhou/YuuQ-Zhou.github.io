@@ -3,10 +3,19 @@
 - *2022.09 - 2026.06*, Bachelor's Degree in Data Science and Big Data Technology, Shanghai University of Medicine & Health Sciences, Shanghai, China
 
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+# 💻 Internship
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Joint Training</div>
+      <img src='../../images/实习.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**Wanda Information Co., Ltd.**
+
+Co-mentored by **Professor Menghan Hu of East China Normal University**, We are tackling a core, real-world industry challenge: how to effectively deploy state-of-the-art Large Language Models on vast and heterogeneous datasets to streamline complex workflows and enhance operational efficiency. This work is expected to continue until June 2026.
+
+</div>
+</div>
