@@ -205,7 +205,7 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div>
-  <img src='../../images/疲立测.png' alt="sym" width="100%">
+  <img src='../../images/疲立测2.png' alt="sym" width="100%">
   <video src='../../images/Pleisure疲立测作品设计材料.mp4' alt="video" width="100%" controls preload="metadata"></video>
 </div></div>
 <div class='paper-box-text' markdown="1">
