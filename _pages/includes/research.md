@@ -43,10 +43,10 @@ This research investigates age-related neural signatures of schizophrenia by con
       </div>
       <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="100%">
       <img src='../../images/rag.png' alt="sym" width="100%">
-      <video src='../../images/scz_web.mp4' alt="video" width="100%" controls preload="none">
-        Your browser does not support video playback. 
-        您的浏览器不支持视频播放。
-      </video>
+     # <video src='../../images/scz_web.mp4' alt="video" width="100%" controls preload="none">
+     #   Your browser does not support video playback. 
+     #   您的浏览器不支持视频播放。
+     # </video>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
