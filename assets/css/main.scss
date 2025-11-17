@@ -107,3 +107,25 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+
+
+/* 
+ *  STEP 1: THE INVISIBILITY CLOAK
+ *  This rule finds the map element created by mapmyvisitors.com
+ *  and hides it from EVERYONE by default. The "!important" makes
+ *  sure our rule wins against any styles the script tries to add.
+ */
+a[href*="mapmyvisitors.com"] {
+  display: none !important;
+}
+
+/* 
+ *  STEP 2: THE SECRET KEY REVEAL
+ *  This rule says: IF the <body> tag has the class "owner-view",
+ *  THEN find the map element and make it visible.
+ */
+body.owner-view a[href*="mapmyvisitors.com"] {
+  display: block !important;
+}
