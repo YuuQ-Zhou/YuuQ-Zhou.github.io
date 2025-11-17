@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 **Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework**
-This work establishes that for machine learning-based diagnosis, resting-state EEG provides a more powerful and reliable basis for classifying schizophrenia than brain activity recorded during cognitive tasks (ERPs).
+- This work establishes that for machine learning-based diagnosis, resting-state EEG provides a more powerful and reliable basis for classifying schizophrenia than brain activity recorded during cognitive tasks (ERPs).
 
 <details>
   <summary 
