@@ -20,9 +20,12 @@ This work establishes that for machine learning-based diagnosis, resting-state E
 <p><strong>Interpretable Machine Learning for Diagnosis</strong>: Developed diagnostic models using interpretable algorithms (SVM, GBDT, KNN, Random Forest). Leveraged the Fisher-score algorithm for feature selection to pinpoint the most discriminative neural patterns across different frequency bands and brain regions.</p>
 
 <p><strong>Key Findings</strong>: Demonstrated that GBDT model achieved superior performance in classifying resting-state EEG, while SVM was optimal for task-based ERP data. This highlights a state-dependent optimal model choice. Identified the occipital lobe during visual processing tasks as a critical region containing highly discriminative features, suggesting its key role in the pathophysiology of schizophrenia.</p>
-
   </div>
 </details>
+
+</div>
+</div>
+
 
 
 
