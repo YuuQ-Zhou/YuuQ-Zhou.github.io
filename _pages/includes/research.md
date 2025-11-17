@@ -1,7 +1,7 @@
 
 # 📝 Research Experience 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Schizophrenia</div><img src='../../images/流程图1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Schizophrenia with EEG & ERP</div><img src='../../images/流程图1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework**
@@ -18,7 +18,7 @@ This work establishes that for machine learning-based diagnosis, resting-state E
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='../../images/mos&sh-图总_画板 1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Age-Related Schizophrenia</div><img src='../../images/mos&sh-图总_画板 1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Age-Related Neural Signatures of Schizophrenia: A Cross-Cohort Deep Learning Analysis of EEG Functional Connectivity**
@@ -39,7 +39,7 @@ This research investigates age-related neural signatures of schizophrenia by con
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICLR 2021
+      <div class="badge">AI-Assisted Clinical Diagnosis
       </div>
       <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="100%">
       <img src='../../images/rag.png' alt="sym" width="100%">
@@ -63,7 +63,7 @@ This website demonstrates the translation of foundational AI research into a tan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/图总结.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interventions for DCD</div><img src='images/图总结.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interventions for Developmental Coordination Disorder (DCD)**
@@ -79,7 +79,7 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/疲立测.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div><img src='images/疲立测.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **"PLEISURE" - An On-Chip, Real-Time System for EEG-Based Fatigue Prediction**
