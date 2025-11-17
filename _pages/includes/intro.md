@@ -11,7 +11,7 @@ Looking ahead to my Ph.D. studies, my research vision is clear and focused: **t
   <summary 
     style="margin-top: 10px; 
     margin-bottom: 10px;
-    cursor: pointer; color: #007bff; font-weight: 500;">View More Details</summary>
+    cursor: pointer; color: #007bff; font-weight: 500;">View More Research Details</summary>
   <div style="margin-top: 8px; margin-bottom: 8px; padding: 8px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
   
 <p><strong>Core Methodology</strong>: I aim to fuse multimodal data—such as medical imaging, physiological signals, clinical text, and genomics—with machine learning and deep learning algorithms to investigate underlying disease mechanisms and build more accurate diagnostic tools.
