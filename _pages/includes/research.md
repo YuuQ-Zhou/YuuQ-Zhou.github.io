@@ -127,8 +127,48 @@ This website demonstrates the translation of foundational AI research into a tan
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Word Vector Models</div><img src='../../images/流程图.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interventions for DCD</div><img src='images/图总结.png' alt="sym" width="100%"></div></div>
+**Uncovering Semantic Structures in Stroke Research: A Comparative Analysis of Word Vector Models**
+
+This project leverages natural language processing and unsupervised learning to systematically analyze a large corpus of medical literature, providing a data-driven evaluation of word embedding techniques for a specialized domain.
+
+<details>
+  <summary 
+    style="margin-top: 10px; 
+    margin-bottom: 10px;
+    cursor: pointer; color: #007bff; font-weight: 500;">Content</summary>
+  <div style="margin-top: 8px; margin-bottom: 8px; padding: 8px 0;">
+<ul>
+  <li>
+    <p><strong>Domain-Specific Text Processing Pipeline</strong>: Engineered a specialized text processing pipeline to handle the unique challenges of medical literature. By training a word segmentation model on manually annotated samples, the system achieves high accuracy in identifying professional medical terms within a large-scale corpus of stroke research abstracts.</p>
+  </li>
+  <li>
+    <p><strong>Head-to-Head Comparison of Word Embedding Models</strong>: Conducted a direct comparative analysis of two seminal word embedding algorithms, GloVe and Word2Vec. Both models were trained on the processed corpus to create distinct vector-space representations of the stroke research domain, allowing for a rigorous evaluation of their ability to capture semantic relationships.</p>
+  </li>
+  <li>
+    <p><strong>Quantitative and Qualitative Performance Evaluation</strong>:Employed unsupervised learning (cluster analysis) as a downstream task to provide an evidence-based evaluation of each vectorization model. By comparing the quality of the resulting thematic clusters, this work offers a clear conclusion on which algorithm is superior for uncovering meaningful, latent structures within specialized scientific literature.</p>
+  </li>
+</ul>
+  
+  </div>
+</details>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interventions for DCD</div><img src='../../images/图总结.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interventions for Developmental Coordination Disorder (DCD)**
@@ -165,7 +205,7 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div>
-  <img src='images/疲立测.png' alt="sym" width="100%">
+  <img src='../../images/疲立测.png' alt="sym" width="100%">
   <video src='../../images/Pleisure疲立测作品设计材料.mp4' alt="video" width="100%" controls preload="metadata"></video>
 </div></div>
 <div class='paper-box-text' markdown="1">
