@@ -6,7 +6,6 @@
 
 **Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework**
 This work establishes that for machine learning-based diagnosis, resting-state EEG provides a more powerful and reliable basis for classifying schizophrenia than brain activity recorded during cognitive tasks (ERPs).
-
 [**Content**]
 - **EEG/ERP Data Preprocessing**: Systematically processed resting-state EEG and N-back task ERP signals using EEGLAB, implementing a full pipeline of filtering, artifact rejection, and normalization to maximize signal integrity and ensure high-quality data for analysis.
 - **Frequency-Domain Biomarker Identification**: Employed Fourier Transform to extract power and energy spectrum features, converting complex time-series data into a clear frequency-domain representation to uncover potential biomarkers of schizophrenia.
@@ -22,9 +21,7 @@ This work establishes that for machine learning-based diagnosis, resting-state E
 <div class='paper-box-text' markdown="1">
 
 **Age-Related Neural Signatures of Schizophrenia: A Cross-Cohort Deep Learning Analysis of EEG Functional Connectivity**
-
 This research investigates age-related neural signatures of schizophrenia by conducting a comparative analysis of adult and adolescent EEG data, leveraging advanced brain network modeling and deep learning
-
 [**Content**]
   - **Cross-Cohort & Cross-Age Comparative Framework**: Initiated a novel comparative study between a privately collected adult schizophrenia EEG dataset (Shanghai) and a public adolescent dataset (Moscow), establishing a framework to test the generalizability of neural biomarkers across different age groups and populations.
   - **Functional Brain Network Construction & Analysis**: Constructed functional brain networks using Power Spectral Density (PSD) as node features and Phase Lag Index (PLI) / Phase Locking Value (PLV) as edge weights. This approach enabled a direct comparison of functional connectivity patterns between the two distinct patient cohorts.
@@ -43,10 +40,10 @@ This research investigates age-related neural signatures of schizophrenia by con
       </div>
       <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="100%">
       <img src='../../images/rag.png' alt="sym" width="100%">
-     # <video src='../../images/scz_web.mp4' alt="video" width="100%" controls preload="none">
-     #   Your browser does not support video playback. 
-     #   您的浏览器不支持视频播放。
-     # </video>
+      <video src='../../images/网页展示视频.mp4' alt="video" width="100%" controls preload="none">
+        Your browser does not support video playback. 
+        您的浏览器不支持视频播放。
+      </video>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +76,10 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div><img src='images/疲立测.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div>
+  <img src='images/疲立测.png' alt="sym" width="100%">
+  <video src='../../images/Pleisure疲立测作品设计材料.mp4' alt="video" width="100%" controls preload="none">
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 **"PLEISURE" - An On-Chip, Real-Time System for EEG-Based Fatigue Prediction**
