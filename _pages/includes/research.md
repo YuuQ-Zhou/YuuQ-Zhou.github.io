@@ -1,6 +1,6 @@
 
 
-# 📝 Research Experience 
+# 📝 Research
 
 <div class='paper-box'>
   <div class='paper-box-image'>
