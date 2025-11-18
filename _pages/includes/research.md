@@ -1,7 +1,7 @@
 
 # 📝 Research Experience 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Schizophrenia with EEG & ERP</div><img src='../../images/流程图1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Schizophrenia with EEG & ERP</div><img src='../../images/流程图1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework**
