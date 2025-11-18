@@ -46,7 +46,10 @@ This work establishes that for machine learning-based diagnosis, resting-state E
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decoding Age-Related Schizophrenia</div><img src='../../images/mos&sh-图总_画板 1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'> 
+  <!-- 在此 div 上添加内联样式控制对齐 -->
+    <div style="text-align: center; width: 100%;">
+      <div class="badge">Decoding Age-Related Schizophrenia</div><img src='../../images/mos&sh-图总_画板 1.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Age-Related Neural Signatures of Schizophrenia: A Cross-Cohort Deep Learning Analysis of EEG Functional Connectivity**
@@ -133,7 +136,10 @@ This website demonstrates the translation of foundational AI research into a tan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Word Vector Models</div><img src='../../images/流程图.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+   <!-- 在此 div 上添加内联样式控制对齐 -->
+    <div style="text-align: center; width: 100%;">
+      <div class="badge">Word Vector Models</div><img src='../../images/流程图.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Uncovering Semantic Structures in Stroke Research: A Comparative Analysis of Word Vector Models**
