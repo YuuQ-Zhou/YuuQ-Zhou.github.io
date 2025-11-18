@@ -1,5 +1,5 @@
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - 2026.06*, Bachelor's Degree in Data Science and Big Data Technology, Shanghai University of Medicine & Health Sciences, Shanghai, China
 
 
