@@ -88,7 +88,8 @@ This research investigates age-related neural signatures of schizophrenia by con
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
+    <!-- 在此 div 上添加内联样式控制对齐 -->
+    <div style="text-align: center; width: 100%;">
       <div class="badge">AI-Assisted Clinical Diagnosis
       </div>
       <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="60%">
@@ -173,7 +174,9 @@ This project leverages natural language processing and unsupervised learning to 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interventions for DCD</div><img src='../../images/图总结.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+  <!-- 在此 div 上添加内联样式控制对齐 -->
+    <div style="text-align: center; width: 100%;"><div class="badge">Interventions for DCD</div><img src='../../images/图总结.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interventions for Developmental Coordination Disorder (DCD)**
@@ -209,7 +212,10 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EEG-Based Fatigue Prediction</div>
+<div class='paper-box'><div class='paper-box-image'>
+  <!-- 在此 div 上添加内联样式控制对齐 -->
+    <div style="text-align: center; width: 100%;">
+  <div class="badge">EEG-Based Fatigue Prediction</div>
   <img src='../../images/疲立测2.png' alt="sym" width="60%">
   <video src='../../images/Pleisure疲立测作品设计材料.mp4' alt="video" width="60%" controls preload="metadata"></video>
 </div></div>
