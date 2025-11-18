@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2025* Shanghai Scholarship (Top 0.5%)
 - *2025* First-class School Scholarship (Top 1%)
 - *2024* First-class School Scholarship (Top 1%)
