@@ -11,7 +11,7 @@
 
 **Decoding Schizophrenia: Superior Discriminative Power of Resting-State EEG over Event-related Potentials in a Comparative Machine Learning Framework**
 
-This work establishes that for machine learning-based diagnosis, resting-state EEG provides a more powerful and reliable basis for classifying schizophrenia than brain activity recorded during cognitive tasks (ERPs).
+**[Project Leader]** This work establishes that for machine learning-based diagnosis, resting-state EEG provides a more powerful and reliable basis for classifying schizophrenia than brain activity recorded during cognitive tasks (ERPs).
 
 <details>
   <summary 
@@ -54,7 +54,7 @@ This work establishes that for machine learning-based diagnosis, resting-state E
 
 **Age-Related Neural Signatures of Schizophrenia: A Cross-Cohort Deep Learning Analysis of EEG Functional Connectivity**
 
-This research investigates age-related neural signatures of schizophrenia by conducting a comparative analysis of adult and adolescent EEG data, leveraging advanced brain network modeling and deep learning.
+**[Project Leader]** This research investigates age-related neural signatures of schizophrenia by conducting a comparative analysis of adult and adolescent EEG data, leveraging advanced brain network modeling and deep learning.
 
 <details>
   <summary 
@@ -95,7 +95,8 @@ This research investigates age-related neural signatures of schizophrenia by con
     <div style="text-align: center; width: 100%;">
       <div class="badge">AI-Assisted Clinical Diagnosis
       </div>
-      <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="60%">
+      <!-- <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="60%"> -->
+      <img src='../../images/patient.png' alt="sym" width="60%">
       <img src='../../images/rag.png' alt="sym" width="60%">
       <video src='../../images/网页展示视频.mp4' alt="video" width="60%" controls preload="metadata">
         Your browser does not support video playback. 
@@ -107,7 +108,7 @@ This research investigates age-related neural signatures of schizophrenia by con
 
 **An Interactive Platform for AI-Assisted Clinical Diagnosis**
 
-This website demonstrates the translation of foundational AI research into a tangible clinical tool. I independently conceived and developed an interactive web-based platform designed to bridge the gap between computational models and real-world clinical practice.
+**[Independent Research]** This website demonstrates the translation of foundational AI research into a tangible clinical tool. I independently conceived and developed an interactive web-based platform designed to bridge the gap between computational models and real-world clinical practice.
 
 <details>
   <summary 
@@ -144,7 +145,7 @@ This website demonstrates the translation of foundational AI research into a tan
 
 **Uncovering Semantic Structures in Stroke Research: A Comparative Analysis of Word Vector Models**
 
-This project leverages natural language processing and unsupervised learning to systematically analyze a large corpus of medical literature, providing a data-driven evaluation of word embedding techniques for a specialized domain.
+**[Project Leader]** This project leverages natural language processing and unsupervised learning to systematically analyze a large corpus of medical literature, providing a data-driven evaluation of word embedding techniques for a specialized domain.
 
 <details>
   <summary 
@@ -187,7 +188,7 @@ This project leverages natural language processing and unsupervised learning to 
 
 **Interventions for Developmental Coordination Disorder (DCD)**
 
-This study provides a comprehensive analysis of the research landscape for interventions targeting DCD in children, combining a wide-ranging bibliometric review with a detailed meta-analysis of intervention effectiveness.
+**[Project Leader]** This study provides a comprehensive analysis of the research landscape for interventions targeting DCD in children, combining a wide-ranging bibliometric review with a detailed meta-analysis of intervention effectiveness.
 
 <details>
   <summary 
@@ -229,7 +230,7 @@ This study provides a comprehensive analysis of the research landscape for inter
 
 **"PLEISURE" - An On-Chip, Real-Time System for EEG-Based Fatigue Prediction**
 
-This work encompasses the end-to-end development of an intelligent IoT system for real-time fatigue prediction, from algorithm design and on-chip hardware implementation to advanced deep learning analysis.
+**[Core Member]** This work encompasses the end-to-end development of an intelligent IoT system for real-time fatigue prediction, from algorithm design and on-chip hardware implementation to advanced deep learning analysis.
 
 <details>
   <summary 
