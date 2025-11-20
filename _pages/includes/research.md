@@ -96,8 +96,9 @@
       <div class="badge">AI-Assisted Clinical Diagnosis
       </div>
       <!-- <img src='../../images/Electroencephalogram (EEG) Visualization.png' alt="sym" width="60%"> -->
-      <img src='../../images/patient.png' alt="sym" width="60%">
+      
       <img src='../../images/rag.png' alt="sym" width="60%">
+      <img src='../../images/patient.png' alt="sym" width="60%">
       <video src='../../images/网页展示视频.mp4' alt="video" width="60%" controls preload="metadata">
         Your browser does not support video playback. 
         您的浏览器不支持视频播放。
@@ -108,7 +109,7 @@
 
 **An Interactive Platform for AI-Assisted Clinical Diagnosis**
 
-**[Independent Research]** This website demonstrates the translation of foundational AI research into a tangible clinical tool. I independently conceived and developed an interactive web-based platform designed to bridge the gap between computational models and real-world clinical practice.
+**[Sole Developer]** This website demonstrates the translation of foundational AI research into a tangible clinical tool. I independently conceived and developed an interactive web-based platform designed to bridge the gap between computational models and real-world clinical practice.
 
 <details>
   <summary 
